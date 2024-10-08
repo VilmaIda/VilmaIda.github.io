@@ -5,23 +5,23 @@ I **will** complete these lessons!
 
 _"Of course,"_ she whispered. Then, she shouted: "All I need is **a little moxie!**"
 
-#Header one
+# Header one
 
-##Header two
+## Header two
 
-###Header three
+### Header three
 
-####Header four
+#### Header four
 
-#####Header five
+##### Header five
 
-######Header six
+###### Header six
 
-####Colombian Symbolism in _One Hundred Years of Solitude_
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 
 Here's some words about the book _One Hundred Years..._.
 
-[Search for it.](www.google.com)
+[Search for it.](https://www.google.com)
 
 [You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
